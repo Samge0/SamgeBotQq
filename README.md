@@ -40,9 +40,9 @@ ghcr.io/mrs4s/go-cqhttp:1.0.0-rc4
 
  - `-v xxx:/app/tmp/qqBotCache` =》这里的xxx填写自己的映射路径，存放日志，例如下面的`/home/samge/docker_data/samge_qq_bot`
  - `OPEN_AI_TOKEN=`填写openai的token值，
- - `GROUP_IDS=`填写群的白名，多个用,分隔（群名，群需要保存到通讯录）
- - `FRIEND_IDS=`填写好友的白名单，多个用,分隔（好友昵称）
- - `MINE_NICKNAME=`填写当前机器人bot的昵称，用于判断群中是否@自己
+ - `GROUP_IDS=`填写群的白名单，多个用,分隔（qq群号）
+ - `FRIEND_IDS=`填写好友的白名单，多个用,分隔（好友qq号）
+ - `MINE_NICKNAME=`填写当前机器人bot的昵称
  - `MASTER_QQ=`填写管理者qq，多个用,分隔
  - `SOCKET_HOST=`填写qq通讯的正向websocket地址
  - `SOCKET_TOKEN=`填写与websocket通讯的token（gocp中配置的token）
