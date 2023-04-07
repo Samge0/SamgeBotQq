@@ -84,8 +84,11 @@ samge/samge_qq_bot:v1
  - [国内聊天机器人调研](https://www.jianshu.com/p/a1ee997b1330)
  - [nb跟gocp的介绍](https://yzyyz.top/archives/nb2b1.html)
 
+
 ### 技术交流
-[Join Discord >>](https://discord.com/invite/eRuSqve8CE)
+- [Join Discord >>](https://discord.com/invite/eRuSqve8CE)
+- WeChat：`SamgeApp`
+
 
 ### 免责声明
 该程序仅供技术交流，使用者所有行为与本项目作者无关
